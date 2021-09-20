@@ -2,8 +2,8 @@ using System;
 
 namespace Dealership.Models
 {
-public class Car
-{
+  public class Car
+  {
     public string MakeModel { get; set; }
     public int Price { get; set; }
     public int Miles { get; set; }
